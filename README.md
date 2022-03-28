@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Kotlin
 - 🤔 I'm interested in 'Quantum Programming'
 
-<p><b>Contact Me :mailbox::<b><a href="mailto:contact@a713f3.tech"> contact@a713f3.tech<a><p>
+<p><b>:mailbox: Contact Me:<b><a href="mailto:contact@a713f3.tech"> contact@a713f3.tech<a><p>
