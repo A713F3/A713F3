@@ -6,7 +6,8 @@
 
 <p><b>:mailbox: Contact Me:<b><a href="mailto:contact@a713f3.tech"> contact@a713f3.tech<a><p>
 
-<br>  
+<hr> 
+  
 <img src="https://www.codewars.com/users/A713F3/badges/small">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
