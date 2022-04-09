@@ -8,4 +8,4 @@
 
 <hr> 
   
-<img src="https://www.codewars.com/users/A713F3/badges/small">
+<img src="https://www.codewars.com/users/A713F3/badges/large">
