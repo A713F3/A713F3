@@ -1,6 +1,6 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm A713F3
 
-- 🚀 I use daily ```.c```, ```.py``` (and sometimes ```.js```)
+- 🚀 I use daily ```.c```, ```.cpp``` and ```.py```
 - 🌱 I’m currently learning Cobol and Kotlin
 - 🤔 I'm interested in 'Quantum Programming'
 
