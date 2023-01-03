@@ -47,12 +47,6 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a713f3&show_icons=true&locale=en&layout=compact" alt="a713f3" /></p>
-
-
-<p align="left"> <a href="https://github.com/a713f3/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a713f3&rank=SSS,SS,S,AAA,AA,A" alt="a713f3" /></a> </p>
-
-
 <h3 align="center">✍️ Random Dev Quote</h3>
   
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></p>
