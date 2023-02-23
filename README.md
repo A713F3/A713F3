@@ -9,7 +9,7 @@
 
 - 🤔 I'm interested in 'Quantum Programming'
 
-<p><b>📫 Contact Me:<b><a href="mailto:contact@a713f3.tech"> contact@a713f3.tech<a><p>
+<p><b>📫 Contact Me:<b><a href="mailto:info@aliefekaragul.com"> info@aliefekaragul.com<a><p>
 
 <hr> 
 
