@@ -9,7 +9,7 @@
 
 - 🤔 I'm interested in 'Quantum Programming'
 
-<p><b>📫 Contact Me: <b><a href="http://www.aliefekaragul.com" target="_blank">aliefekaragul.com<a><p>
+<p><b>📫 Contact Me: <b><a href="http://www.aliefekaragul.com" target="_blank" rel="noopener noreferrer">aliefekaragul.com<a><p>
 
 <hr> 
 
