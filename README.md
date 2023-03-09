@@ -47,7 +47,6 @@
 
 <hr>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Random+Dev+Quote" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&width=435&lines=Random+Dev+Quote" alt="Typing SVG" /></a>
   
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></p>
