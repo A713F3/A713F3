@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">, I'm Ali Efe</h1>
 
 
-- 🔭 I’m currently working on **FoodAdd**
+- 🔭 I’m currently working on some projects with <a href="https://github.com/map-apps"><strong>Map.</strong></a>
 
 - 🚀 I use daily ```.c```, ```.cpp``` and ```.py```
 
@@ -13,44 +13,26 @@
 
 <hr> 
 
-
-<h3 align="center">Languages and Tools</h3>
-  
-<img src="https://skillicons.dev/icons?i=py,c,cpp">
-<img src="https://skillicons.dev/icons?i=tensorflow">
-<img src="https://skillicons.dev/icons?i=flutter,unity">
-
-
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,fortran,tensorflow,flutter,unity,processing">
 </p>
 
-<p align="center"><img src="https://www.codewars.com/users/A713F3/badges/small"></p>
+<p align="left"><img src="https://www.codewars.com/users/A713F3/badges/small"></p>
 
 <hr>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&pause=1000&center=true&vCenter=true&width=435&lines=Random+Dev+Quote" alt="Typing SVG" /></a>
+<details>
+<summary>Github Stats ⚡</summary>
   
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></p>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=A713F3&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A713F3&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
+<hr>
+
+<details>
+<summary>Random Dev Quote ✍️</summary>
+  
+<p align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></p>
+</details>
