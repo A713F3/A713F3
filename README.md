@@ -15,6 +15,10 @@
 
 
 <h3 align="center">Languages and Tools</h3>
+  
+<img src="https://skillicons.dev/icons?i=py,c,cpp">
+<img src="https://skillicons.dev/icons?i=tensorflow">
+<img src="https://skillicons.dev/icons?i=flutter,unity">
 
 
 <p align="center"> 
