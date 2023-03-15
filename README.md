@@ -27,7 +27,7 @@
 <p align="left">
 <h3>Languages and Tools</h3>
   
-<img src="https://skillicons.dev/icons?i=py,c,cpp,fortran,tensorflow,flutter,unity,processing">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,fortran,tensorflow,flutter,firebase,unity,processing">
 </p>
 
 <p align="left"><img src="https://www.codewars.com/users/A713F3/badges/small"></p>
