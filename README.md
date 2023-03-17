@@ -12,7 +12,7 @@
   
 </p>
 
-- 🔭 I’m currently working on awesome projects with <a href="https://github.com/map-apps"><strong>Map.</strong></a>
+- 🔭 I’m currently working on awesome projects with <a href="https://github.com/map-apps"><img src="https://img.shields.io/badge/Map.-303030?style=for-the-badge"></a>
 
 - 🚀 I use daily ```.c```, ```.cpp``` and ```.py```
 
