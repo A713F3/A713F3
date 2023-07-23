@@ -38,7 +38,7 @@
 <h3>Github Stats ⚡</h3>
   
  ![Github stats](https://github-readme-stats.vercel.app/api?username=A713F3&theme=blueberry&count_private=true&hide_border=true&line_height=20)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A713F3&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=javascript,shaderlab,html,css,hlsl,jupyter%20notebook,c%23)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A713F3&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=javascript,shaderlab,html,css,hlsl,jupyter%20notebook)
 </p>
 
 <hr>
