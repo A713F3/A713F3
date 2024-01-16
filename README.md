@@ -32,6 +32,7 @@
 
 <p align="left"><img src="https://www.codewars.com/users/A713F3/badges/small"></p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c18571a9-2429-427e-bb99-0b3807dbbcb9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <hr>
 
 <p align="left">
