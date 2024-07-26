@@ -25,9 +25,17 @@
 <hr> 
   
 <p align="left">
-<h3>Languages and Tools</h3>
-  
-<img src="https://skillicons.dev/icons?i=matlab,py,c,cpp,fortran,tensorflow,flutter,firebase,unity,processing">
+<h3>Skills</h3>
+
+<h4>Programming:</h4> 
+<img src="https://skillicons.dev/icons?i=py,matlab,c,cpp,fortran">
+
+<h4>Tools:</h4>  
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow">
+
+<h4>Other:</h4> 
+<img src="https://skillicons.dev/icons?i=flutter,firebase,unity,processing">
+
 </p>
 
 <p align="left"><img src="https://www.codewars.com/users/A713F3/badges/small"></p>
