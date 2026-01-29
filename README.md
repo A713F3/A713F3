@@ -13,7 +13,7 @@
 </p>
 
 
-- 🚀 I use ```Matlab``` and ```Python``` daily
+- 🚀 I use ```Python```, ```TypeScript```  daily
 - 🤔 I'm interested in ```Quantum Programming```
 
 <!---
